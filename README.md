@@ -7,6 +7,7 @@
 姑且先將就著看吧  
 圖片的部份盡量會在幾天內補齊  
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ```
                              ,,
